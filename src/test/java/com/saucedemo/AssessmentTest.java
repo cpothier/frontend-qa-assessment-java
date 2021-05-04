@@ -22,9 +22,8 @@ public class AssessmentTest extends BaseTest {
      Your next test should:
         1. Interact with the menu on the left of the page and click "Input Forms"
         2. On the sub-menu, click "Checkbox Demo"
-        3. Under "Multiple Checkbox Demo" there are 2 bugs with the multiple checkbox component
-        and it is up to you to figure out what it is and write a test that fails at least 1/2 conditions
-        4. Hint: read the bulletpoints to help you find the bug(s)
+        3. Validate that the three bullet point requirments 
+           in the "Multipule Checkbox Demo" section are being met
 */
     @Test(enabled=false)
     public void checkboxTest() {
